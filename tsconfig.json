@@ -1,0 +1,33 @@
+{
+  "ts-node": {
+    "files": true
+  },
+  "compilerOptions": {
+  
+   "declaration": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "target": "ES2017",
+    "module": "CommonJS",
+    "types": ["cypress", "cypress-xpath","cypress-file-upload","cy-verify-downloads"],
+    "lib": ["dom", "ES2021"]
+  },
+  "include": [
+    "lib/**/*.ts",
+    "test/**/*.ts",
+    "methods.ts",
+    "declarations.d.ts",
+    "browserify.ts",
+    "esbuild.ts",
+    "webpack.ts"
+  ],
+  "exclude": ["lib/index.test-d.ts"]
+
+  
+}
+
+  
+

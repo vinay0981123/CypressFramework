@@ -1,0 +1,30 @@
+
+  [
+    {
+      "username": "panda11@mailinator.com",
+      "password": "panda11",
+      "cardnumber":"4111111111111111",
+      "expirydate":"0225",
+      "cvv":"145",
+      "cardholdername":"aakash",
+      "OTP":"2234"
+    },
+    {
+      "username": "userfox99@mailinator.com",
+      "password": "userfox99",
+      "cardnumber":"4111111111111111",
+      "expirydate":"0225",
+      "cvv":"145",
+      "cardholdername":"aakash",
+      "OTP":"2234"
+    },
+    {
+      "username": "avenger@mailinator.com",
+      "password": "avenger",
+      "cardnumber":"4111111111111111",
+      "expirydate":"0225",
+      "cvv":"145",
+      "cardholdername":"aakash",
+      "OTP":"2234"
+    }
+  ]
